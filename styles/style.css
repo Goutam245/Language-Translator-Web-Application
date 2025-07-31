@@ -348,6 +348,7 @@ body.dark {
   .container .card .to {
     flex-direction: column;
   }
+  
 
   .swap-position {
     top: 50%;

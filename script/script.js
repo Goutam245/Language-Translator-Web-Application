@@ -134,6 +134,7 @@ downloadBtn.addEventListener("click", (e) => {
   }
 });
 
+
 const darkModeCheckbox = document.getElementById("dark-mode-btn");
 
 darkModeCheckbox.addEventListener("change", () => {
