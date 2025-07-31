@@ -341,7 +341,7 @@ const languages = [
     native: "Tiếng Việt",
     code: "vi",
   },
-  
+
   {
     no: "57",
     name: "Welsh",
